@@ -1,0 +1,16 @@
+<?php
+
+namespace Modules\Newsletters\Database\Seeders;
+
+use Illuminate\Database\Seeder;
+
+class NewslettersDatabaseSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     */
+    public function run(): void
+    {
+        // $this->call([]);
+    }
+}

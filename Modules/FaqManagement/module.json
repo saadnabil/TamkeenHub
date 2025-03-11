@@ -1,0 +1,11 @@
+{
+    "name": "FaqManagement",
+    "alias": "faqmanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FaqManagement\\App\\Providers\\FaqManagementServiceProvider"
+    ],
+    "files": []
+}

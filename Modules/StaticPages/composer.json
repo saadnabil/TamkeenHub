@@ -1,0 +1,31 @@
+{
+    "name": "nwidart/staticpages",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\StaticPages\\": "",
+            "Modules\\StaticPages\\App\\": "app/",
+            "Modules\\StaticPages\\Database\\Factories\\": "database/factories/",
+            "Modules\\StaticPages\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\StaticPages\\Tests\\": "tests/"
+        }
+    }
+}

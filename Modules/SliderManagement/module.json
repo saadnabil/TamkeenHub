@@ -1,0 +1,11 @@
+{
+    "name": "SliderManagement",
+    "alias": "slidermanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SliderManagement\\App\\Providers\\SliderManagementServiceProvider"
+    ],
+    "files": []
+}

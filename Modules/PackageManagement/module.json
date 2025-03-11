@@ -1,0 +1,11 @@
+{
+    "name": "PackageManagement",
+    "alias": "packagemanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PackageManagement\\App\\Providers\\PackageManagementServiceProvider"
+    ],
+    "files": []
+}

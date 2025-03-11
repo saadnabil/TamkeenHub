@@ -1,0 +1,17 @@
+{
+    "AdminManagement": true,
+    "Resource": true,
+    "ServiceManagement": true,
+    "SliderManagement": true,
+    "ClientManagement": true,
+    "TeamManagement": true,
+    "StaticPages": true,
+    "ContactUs": true,
+    "ProjectManagement": true,
+    "SettingManagement": true,
+    "FaqManagement": true,
+    "ReviewManagement": true,
+    "Appointment": true,
+    "PackageManagement": true,
+    "Newsletters": true
+}

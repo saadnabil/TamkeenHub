@@ -1,0 +1,11 @@
+{
+    "name": "JoinUs",
+    "alias": "joinus",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\JoinUs\\App\\Providers\\JoinUsServiceProvider"
+    ],
+    "files": []
+}

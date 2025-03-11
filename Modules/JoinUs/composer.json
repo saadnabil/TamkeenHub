@@ -1,0 +1,31 @@
+{
+    "name": "nwidart/joinus",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\JoinUs\\": "",
+            "Modules\\JoinUs\\App\\": "app/",
+            "Modules\\JoinUs\\Database\\Factories\\": "database/factories/",
+            "Modules\\JoinUs\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\JoinUs\\Tests\\": "tests/"
+        }
+    }
+}

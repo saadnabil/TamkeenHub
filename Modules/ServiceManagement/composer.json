@@ -1,0 +1,31 @@
+{
+    "name": "nwidart/servicemanagement",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ServiceManagement\\": "",
+            "Modules\\ServiceManagement\\App\\": "app/",
+            "Modules\\ServiceManagement\\Database\\Factories\\": "database/factories/",
+            "Modules\\ServiceManagement\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\ServiceManagement\\Tests\\": "tests/"
+        }
+    }
+}
